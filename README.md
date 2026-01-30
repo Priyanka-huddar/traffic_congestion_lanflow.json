@@ -1,21 +1,21 @@
-# traffic_congestion_lanflow.json
-# AI-Driven Early Warning System for Traffic Congestion Hotspots 🚦
+# traffic_congestion_langflow
+# AI-Driven Early Warning System for Traffic Congestion Hotspots 
 
-## 📌 Project Overview
+## Project Overview
 Urban traffic congestion is a growing challenge due to increasing vehicle density, roadworks, and unexpected disruptions such as accidents or weather changes. Most existing traffic management systems are reactive and respond only after congestion becomes severe.
 
 This project proposes an **AI-Driven Early Warning System** that proactively identifies potential traffic congestion hotspots before they escalate. The system uses an **agentic AI architecture built with LangFlow and IBM Granite**, supported by **Retrieval-Augmented Generation (RAG)** to provide intelligent, explainable, and planning-level advisories to traffic authorities.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Traffic congestion hotspots often develop gradually due to increasing demand, roadworks, or external disruptions. Existing traffic systems lack early warning mechanisms that can identify congestion trends in advance. As a result, authorities are unable to plan proactive interventions, leading to severe congestion, increased travel time, fuel wastage, and environmental pollution.
 
 An intelligent system is required to continuously monitor traffic data, detect early warning signs of congestion, and assist traffic authorities with planning-level advisories.
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 The proposed system uses a **multi-agent AI framework** where each agent performs a specialized role:
 
 - Continuous monitoring of real-time and historical traffic data
@@ -25,7 +25,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 🧠 System Architecture (Agents)
+##  System Architecture (Agents)
 
 ### 1. Traffic Data Analysis Agent
 - Processes vehicle speed, traffic density, travel time
@@ -44,7 +44,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **LangFlow** – Agent orchestration and workflow design  
 - **IBM Granite Model** – Intelligent traffic data understanding  
 - **Retrieval-Augmented Generation (RAG)** – Knowledge retrieval from congestion management strategies and transportation planning guidelines  
@@ -52,7 +52,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 🌟 Novelty and Uniqueness
+## Novelty and Uniqueness
 - Early warning system instead of reactive congestion handling
 - Agentic AI architecture for modular and scalable design
 - Integration of IBM Granite with RAG for explainable and policy-aligned recommendations
@@ -61,7 +61,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 👥 End Users
+##  End Users
 - Traffic Management Authorities
 - Smart City and Urban Transport Departments
 - Traffic Control Room Operators
@@ -71,7 +71,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 - Early identification of congestion hotspots
 - Reduced congestion severity and travel delays
 - Improved traffic planning and decision-making
@@ -80,7 +80,7 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 - Integration with IoT sensors, CCTV, and GPS devices
 - Advanced predictive models using deep learning
 - City-wide and multi-city scalability
@@ -90,10 +90,10 @@ The proposed system uses a **multi-agent AI framework** where each agent perform
 
 ---
 
-## 📄 Conclusion
+## Conclusion
 This project demonstrates how **agentic AI combined with LangFlow, IBM Granite, and RAG** can transform traffic management from a reactive process to a proactive, intelligent system. By enabling early warnings and assistive planning, the solution contributes to smarter, safer, and more efficient urban mobility.
 
 ---
 
-## 👩‍💻👨‍💻 Team
+##  Team
 Developed as part of an academic project on **AI-driven intelligent systems and smart city solutions**.
